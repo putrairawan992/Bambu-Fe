@@ -1,0 +1,22 @@
+.chart {
+  display: flex;
+  height: 500px;
+}
+
+.line {
+  cursor: pointer;
+  position: relative;
+  height: 100%;
+  width: 2px;
+  margin: 0 5px;
+  background-color: #ddd;
+}
+
+.axis {
+  height: 100%;
+  font-size: 0.5rem;
+}
+
+.priceAxis {
+  height: 50px;
+}

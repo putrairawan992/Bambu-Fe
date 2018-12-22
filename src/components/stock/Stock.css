@@ -1,0 +1,7 @@
+.stock {
+  display: block;
+  text-decoration: none;
+  color: rgb(121, 116, 116);
+  padding: 1rem;
+  border-bottom: 5px solid white;
+}

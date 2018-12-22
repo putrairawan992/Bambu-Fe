@@ -1,0 +1,24 @@
+.header {
+  background-color: #c31432;
+  color: #ecf0f1;
+  padding: 1rem 2rem;
+}
+
+.footer {
+  background-color: #080808;
+  color: #ecf0f1;
+  padding: 1rem 2rem;
+}
+
+.footer {
+  text-align: left;
+}
+
+.brand {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+
+.authorLink {
+  color: #ecf0f1;
+}

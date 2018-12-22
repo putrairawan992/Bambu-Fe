@@ -1,0 +1,14 @@
+.viewer {
+  display: flex;
+  height: 90vh;
+}
+
+.stockList {
+  background-color: #7df7d62f;
+  border: 1px solid white;
+  flex: 0 0 15rem;
+}
+
+.chart {
+  flex: 1 1 0;
+}
