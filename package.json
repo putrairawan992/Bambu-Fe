@@ -1,5 +1,5 @@
 {
-  "name": "fe",
+  "name": "BambuFeMaster",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
-  "author": "Yoong Ti Lee",
-  "license": "ISC",
+  "author": "Putra Irawan",
+  "license": "Putra Irawan",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
